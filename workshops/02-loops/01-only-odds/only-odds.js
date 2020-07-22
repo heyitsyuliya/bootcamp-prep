@@ -1,5 +1,3 @@
-// YOUR CODE BELOW
-
 function onlyOdds(number) {
   
   // guard clause
@@ -14,7 +12,6 @@ function onlyOdds(number) {
     else {
       sum += i;
       i++;
-      console.log("sum is " + sum);
     }
   }
   return sum;
